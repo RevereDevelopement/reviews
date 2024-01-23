@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "profilePicture": "placeholder_url_1.jpg",
+      "username": "User1",
+      "review": "Great experience with Revere Development!"
+    },
+    {
+      "id": 2,
+      "profilePicture": "placeholder_url_2.jpg",
+      "username": "User2",
+      "review": "Their work is top-notch."
+    },
+    {
+      "id": 3,
+      "profilePicture": "placeholder_url_3.jpg",
+      "username": "User3",
+      "review": "Highly recommend their services."
+    }
+  ]
+}
