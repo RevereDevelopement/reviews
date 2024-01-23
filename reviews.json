@@ -2,19 +2,19 @@
   "reviews": [
     {
       "id": 1,
-      "profilePicture": "placeholder_url_1.jpg",
+      "profilePicture": "https://cdn.discordapp.com/avatars/351763589746393091/0c28f8efcb002c58973dd299d992c397.webp?size=512",
       "username": "User1",
       "review": "Great experience with Revere Development!"
     },
     {
       "id": 2,
-      "profilePicture": "placeholder_url_2.jpg",
+      "profilePicture": "https://cdn.discordapp.com/avatars/351763589746393091/0c28f8efcb002c58973dd299d992c397.webp?size=512",
       "username": "User2",
       "review": "Their work is top-notch."
     },
     {
       "id": 3,
-      "profilePicture": "placeholder_url_3.jpg",
+      "profilePicture": "https://cdn.discordapp.com/avatars/351763589746393091/0c28f8efcb002c58973dd299d992c397.webp?size=512",
       "username": "User3",
       "review": "Highly recommend their services."
     }
